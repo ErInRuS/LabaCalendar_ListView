@@ -1,0 +1,15 @@
+C:\Users\Doshi\source\repos\testpons\testpons\bin\Debug\testpons.exe.config
+C:\Users\Doshi\source\repos\testpons\testpons\bin\Debug\testpons.exe
+C:\Users\Doshi\source\repos\testpons\testpons\bin\Debug\testpons.pdb
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons.csproj.AssemblyReference.cache
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\MainWindow.g.cs
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\App.g.cs
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons_MarkupCompile.cache
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons_MarkupCompile.lref
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\MainWindow.baml
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons.g.resources
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons.Properties.Resources.resources
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons.csproj.GenerateResource.cache
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons.csproj.CoreCompileInputs.cache
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons.exe
+C:\Users\Doshi\source\repos\testpons\testpons\obj\Debug\testpons.pdb
